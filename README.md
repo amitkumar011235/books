@@ -1,2 +1,2 @@
 # books
-All the useful books I find online and stored as archive
+All the useful books I find online or written by me and stored as archive
